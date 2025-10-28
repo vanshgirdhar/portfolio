@@ -11,7 +11,6 @@ I craft **clean, responsive, and user-centric websites** that combine functional
 ![Movie System Screenshot](images\download.jpeg)  
 A system that recommends movies using AI algorithms and user preferences.  
 **Technologies:** HTML, CSS, JavaScript, PHP, AI algorithms.  
-**Live Preview:** *(if available, add link here)*  
 
 ### 2️⃣ Placement Cell Web App
 ![Placement Cell Screenshot](images/images.jpeg)  
