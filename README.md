@@ -8,7 +8,7 @@ I craft **clean, responsive, and user-centric websites** that combine functional
 ## 🚀 My Projects
 
 ### 1️⃣ Movie Recommendation System
-![Movie System Screenshot](images\download.jpeg)  
+![Movie System Screenshot](images/download.jpeg)  
 A system that recommends movies using AI algorithms and user preferences.  
 **Technologies:** HTML, CSS, JavaScript, PHP, AI algorithms.  
 
