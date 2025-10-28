@@ -8,18 +8,18 @@ I craft **clean, responsive, and user-centric websites** that combine functional
 ## 🚀 My Projects
 
 ### 1️⃣ Movie Recommendation System
-![Movie System Screenshot](download.jpeg)  
+![Movie System Screenshot](images\download.jpeg)  
 A system that recommends movies using AI algorithms and user preferences.  
 **Technologies:** HTML, CSS, JavaScript, PHP, AI algorithms.  
 **Live Preview:** *(if available, add link here)*  
 
 ### 2️⃣ Placement Cell Web App
-![Placement Cell Screenshot](images.jpeg)  
+![Placement Cell Screenshot](images/images.jpeg)  
 A web application connecting students and recruiters with admin dashboards.  
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL.  
 
 ### 3️⃣ Amazon Prime Clone
-![Amazon Clone Screenshot](download(1).jpeg)  
+![Amazon Clone Screenshot](images/download(1).jpeg)  
 A streaming platform replica built with React and Firebase backend.  
 **Technologies:** HTML, CSS, JavaScript, React, Firebase.  
 
